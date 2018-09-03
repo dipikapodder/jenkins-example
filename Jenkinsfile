@@ -16,7 +16,6 @@ pipeline {
             }
         }
     
-    stages {
         stage ('Compile Stage') {
 
             steps {
